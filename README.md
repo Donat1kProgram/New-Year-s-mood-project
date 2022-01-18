@@ -1,1 +1,2 @@
-# New-Year-s-mood-project
+# Project Snow
+# My mod in Terraria
